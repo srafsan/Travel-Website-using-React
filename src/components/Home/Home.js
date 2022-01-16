@@ -4,7 +4,7 @@ import Cards from '../Cards/Cards'
 import Footer from '../Footer/Footer'
 import HeroSection from '../HeroSection/HeroSection'
 
-const Home = () => {
+function Home() {
     return (
         <>
             <HeroSection />
